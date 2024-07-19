@@ -16,19 +16,23 @@ This Unity project is part of the GAME 351 course, aimed at implementing a basic
 
 3. **Realistic Terrain**
    - The terrain includes hills, mountains, and plains, with a ring of mountains around the periphery.
-   - Painted textures simulate dirt, rock, moss, grass, and include two dirt roads.
+   - Painted textures simulate dirt, scorch marks, rock, moss, grass, and include two dirt roads.
 
 4. **Trees & Foliage**
    - Five tree prefabs placed naturally within the scene, with at least five instances of each prefab, using variations in rotation, scale, and materials.
 
 5. **Baron's Castle**
-   - A castle created using ProBuilder, featuring outer walls, an inner keep, doorways, windows, a gate, and archer firing ports.
+   - A castle created using ProBuilder and assets downloaded from the Unity Asset Store. It features outer walls, an inner keep, doorways, windows, a gate, various furnishings, and archer firing ports.
 
 ### Choice Features
 
 6. **Crash Site**
    - A crash site for Jammo’s ship with a spacecraft model, perturbed terrain to create a crater, and painted scorch marks.
-   - Added debris objects around the crash site to enhance realism.
+   - Added debris objects and burning flames around the crash site to enhance realism
+  
+7. **Lake and Moat**
+   - A moat surrounds the castle utilizing assets from the Unity Asset Store
+   - A lake on the edge of the terrain with a boat created with various assets
 
 ## Known Issues
 - No enemies added to the scene.
@@ -58,6 +62,7 @@ This Unity project is part of the GAME 351 course, aimed at implementing a basic
 - **Tutorial References:** For terrain texturing and using ProBuilder, the following tutorials were referenced:
   - [Texturize Terrains with Materials](https://learn.unity.com/tutorial/texturize-terrains-with-materials)
   - [ProBuilder House Tutorial](http://www.procore3d.com/pb-house-tutorial/)
+  - [Class Textbook on Unity] (Hands-On Unity 2022 Game Development - Third Edition by Nicolas Alejandro Borromeo)
 
 ## Testing
 

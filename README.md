@@ -34,6 +34,11 @@ This Unity project is part of the GAME 351 course, aimed at implementing a basic
    - A moat surrounds the castle utilizing assets from the Unity Asset Store
    - A lake on the edge of the terrain with a boat created with various assets
 
+### Assets
+
+8. **List of Assets**
+   -  The project includes a mix of provided and downloaded assets from the Unity Asset Store which include the following: Alstra Infinite, Boats, Coconut Palm Tree Pack, Dry_Trees, DungeonAssetPack, Hipernt, HiRezSpaceshipsCreatorFree, IgniteCoders, laxer tree pkg, LowPolyDungeonsLite, MedievalCastlePackLite, Modular Castle, nave, Next_Spring, polygonTrees, Robot, SciFiWarriorPBRHPPolyart, Streams Creeks and Rivers Sound Pack Free, Tree_Packs, Tree_Textures, Trees_WorldSpace_FREE, Triple Dungeon Pack, TutorialInfo, Vefects, and Water Float
+
 ## Known Issues
 - No enemies added to the scene.
 - No farms added to the scene.
@@ -58,7 +63,6 @@ This Unity project is part of the GAME 351 course, aimed at implementing a basic
 
 ## Additional Information
 
-- **Game Assets:** The project uses a mix of provided and downloaded assets from the Unity Asset Store. All assets are documented within the project files.
 - **Tutorial References:** For terrain texturing and using ProBuilder, the following tutorials were referenced:
   - [Texturize Terrains with Materials](https://learn.unity.com/tutorial/texturize-terrains-with-materials)
   - [ProBuilder House Tutorial](http://www.procore3d.com/pb-house-tutorial/)

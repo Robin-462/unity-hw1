@@ -1,5 +1,7 @@
 # GAME 351 Assignment 1 - README
 
+##Team Members: MiLee Vogel, Cougar Bellinger, Minh Le, Robin Zheng
+
 ## Overview
 This Unity project is part of the GAME 351 course, aimed at implementing a basic 3D game scene. The scene features an android named Jammo who has crash-landed on a medieval-themed planet. The project showcases various game development elements, including character control, terrain manipulation, and environmental detailing.
 
